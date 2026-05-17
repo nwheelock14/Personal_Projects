@@ -61,7 +61,7 @@ main-build: Nucleo_Heated_Cabinet.elf secondary-outputs
 
 # Tool invocations
 Nucleo_Heated_Cabinet.elf Nucleo_Heated_Cabinet.map: $(OBJS) $(USER_OBJS) E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\STM32F401RETX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "Nucleo_Heated_Cabinet.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\STM32F401RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Nucleo_Heated_Cabinet.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+	arm-none-eabi-gcc -o "Nucleo_Heated_Cabinet.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\STM32F401RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Nucleo_Heated_Cabinet.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -u _printf_float -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

@@ -16,3 +16,15 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data E:\Git\Personal_
 
 !ENTRY org.eclipse.cdt.core 1 0 2026-05-16 22:39:30.522
 !MESSAGE Indexed 'Nucleo_Heated_Cabinet' (20 sources, 82 headers) in 2.3 sec: 4,775 declarations; 22,726 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0073%)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2026-05-17 10:52:28.085
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 13 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2026-05-17 10:52:28.098
+!MESSAGE Existing sessions are:
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2026-05-17 10:52:28.100
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 13 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2026-05-17 10:52:28.100
+!MESSAGE Existing sessions are:

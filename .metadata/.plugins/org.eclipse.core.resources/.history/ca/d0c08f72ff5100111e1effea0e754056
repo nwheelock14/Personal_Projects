@@ -1,0 +1,20 @@
+/*
+ * TMP1075.h
+ *
+ *  Created on: May 17, 2026
+ *      Author: nickw
+ */
+
+#ifndef INC_TMP1075_H_
+#define INC_TMP1075_H_
+
+#include "main.h"
+
+#define Temp_Constant  0.0625
+#define TMP1075_Adr (0x48 << 1)
+
+// Register Setup for TMP 1075
+#define Temp_Result_Register 0x00
+#define Configuration_Register 0x01
+
+#endif /* INC_TMP1075_H_ */
