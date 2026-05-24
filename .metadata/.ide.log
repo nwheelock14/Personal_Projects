@@ -1,6 +1,140 @@
-2026-05-17 10:20:17,629 [INFO] WebApp:194 - Connection lost
-2026-05-17 10:20:19,917 [INFO] WebApp:191 - Connection restablished
-2026-05-17 10:20:20,146 [INFO] WebApp:194 - Connection lost
-2026-05-17 10:20:20,384 [INFO] WebApp:191 - Connection restablished
-2026-05-17 10:53:44,597 [INFO] WebApp:194 - Connection lost
-2026-05-17 10:53:44,919 [INFO] WebApp:191 - Connection restablished
+2026-05-24 09:14:58,977 [INFO] WebApp:194 - Connection lost
+2026-05-24 09:15:10,113 [INFO] WebApp:191 - Connection restablished
+2026-05-24 09:15:10,442 [INFO] WebApp:194 - Connection lost
+2026-05-24 09:15:10,962 [INFO] WebApp:191 - Connection restablished
+2026-05-24 09:15:51,194 [INFO] Gpio:278 - dependency for GPIO [I2C1, RCC, SYS, TIM11, USART2]
+2026-05-24 09:16:15,848 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2026-05-24 09:16:15,848 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2026-05-24 09:16:15,849 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2026-05-24 09:16:15,849 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2026-05-24 09:16:27,315 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-05-24 09:19:21,543 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 979618688 Bytes (1073741824)
+2026-05-24 09:19:24,845 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 750542920 Bytes (1073741824)
+2026-05-24 09:19:26,501 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 823943240 Bytes (1073741824)
+2026-05-24 09:19:26,955 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2026-05-24 09:19:26,955 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2026-05-24 09:19:26,955 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2026-05-24 09:19:26,955 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2026-05-24 09:19:26,955 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2026-05-24 09:19:26,956 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2026-05-24 09:19:26,956 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2026-05-24 09:19:26,956 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2026-05-24 09:19:26,959 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2026-05-24 09:19:26,962 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2026-05-24 09:19:26,962 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2026-05-24 09:19:27,072 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\MXTmpFiles\license.tmp_save
+2026-05-24 09:19:27,457 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\MXTmpFiles\license.tmp
+2026-05-24 09:19:27,516 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\MXTmpFiles\gpio.tmp_save
+2026-05-24 09:19:27,707 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\MXTmpFiles\gpio.tmp
+2026-05-24 09:19:28,219 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Src\stm32f4xx_it.c_save
+2026-05-24 09:19:28,633 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Src\stm32f4xx_it.c
+2026-05-24 09:19:28,642 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Inc\stm32f4xx_it.h_save
+2026-05-24 09:19:28,787 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Inc\stm32f4xx_it.h
+2026-05-24 09:19:28,805 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Src\stm32f4xx_hal_msp.c_save
+2026-05-24 09:19:29,006 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Src\stm32f4xx_hal_msp.c
+2026-05-24 09:19:29,012 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\MXTmpFiles\system.tmp_save
+2026-05-24 09:19:29,082 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\MXTmpFiles\system.tmp
+2026-05-24 09:19:29,098 [INFO] CodeEngine:321 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Inc\stm32f4xx_hal_conf.h_save
+2026-05-24 09:19:29,179 [INFO] CodeEngine:345 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Inc\stm32f4xx_hal_conf.h
+2026-05-24 09:19:29,213 [INFO] ApiDbMcu:532 - Load IP Config File for TIM10
+2026-05-24 09:19:29,216 [WARN] IPConfigManager:3811 - IP not found : TIM
+2026-05-24 09:19:29,219 [WARN] CodeGenerator:4259 - IP not found : null
+2026-05-24 09:19:29,229 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Inc\main.h_save
+2026-05-24 09:19:29,330 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Inc\main.h
+2026-05-24 09:19:29,338 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Src\main.c_save
+2026-05-24 09:19:29,493 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Src\main.c
+2026-05-24 09:19:30,372 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 371mS.
+2026-05-24 09:19:30,381 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2026-05-24 09:19:30,487 [INFO] ConfigFileManager:1595 - The Die is : DIE433
+2026-05-24 09:19:31,957 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 1575mS.
+2026-05-24 09:19:31,958 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-05-24 09:19:31,961 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-05-24 09:44:02,108 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2026-05-24 09:44:02,110 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2026-05-24 09:44:02,111 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2026-05-24 09:44:02,111 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2026-05-24 09:45:35,670 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-05-24 09:45:48,152 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 765912936 Bytes (1073741824)
+2026-05-24 09:45:49,837 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 787410792 Bytes (1073741824)
+2026-05-24 09:45:51,067 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 827778920 Bytes (1073741824)
+2026-05-24 09:45:51,468 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2026-05-24 09:45:51,468 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2026-05-24 09:45:51,468 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2026-05-24 09:45:51,468 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2026-05-24 09:45:51,468 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2026-05-24 09:45:51,468 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2026-05-24 09:45:51,469 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2026-05-24 09:45:51,469 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2026-05-24 09:45:51,469 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2026-05-24 09:45:51,483 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2026-05-24 09:45:51,485 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2026-05-24 09:45:51,485 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2026-05-24 09:45:51,603 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\MXTmpFiles\license.tmp_save
+2026-05-24 09:45:51,974 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\MXTmpFiles\license.tmp
+2026-05-24 09:45:52,020 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\MXTmpFiles\gpio.tmp_save
+2026-05-24 09:45:52,204 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\MXTmpFiles\gpio.tmp
+2026-05-24 09:45:52,464 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Src\stm32f4xx_it.c_save
+2026-05-24 09:45:52,831 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Src\stm32f4xx_it.c
+2026-05-24 09:45:52,838 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Inc\stm32f4xx_it.h_save
+2026-05-24 09:45:52,915 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Inc\stm32f4xx_it.h
+2026-05-24 09:45:52,929 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Src\stm32f4xx_hal_msp.c_save
+2026-05-24 09:45:53,068 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Src\stm32f4xx_hal_msp.c
+2026-05-24 09:45:53,073 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\MXTmpFiles\system.tmp_save
+2026-05-24 09:45:53,134 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\MXTmpFiles\system.tmp
+2026-05-24 09:45:53,145 [INFO] CodeEngine:321 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Inc\stm32f4xx_hal_conf.h_save
+2026-05-24 09:45:53,226 [INFO] CodeEngine:345 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Inc\stm32f4xx_hal_conf.h
+2026-05-24 09:45:53,258 [INFO] ApiDbMcu:532 - Load IP Config File for TIM9
+2026-05-24 09:45:53,259 [WARN] IPConfigManager:3811 - IP not found : TIM
+2026-05-24 09:45:53,261 [WARN] CodeGenerator:4259 - IP not found : null
+2026-05-24 09:45:53,270 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Inc\main.h_save
+2026-05-24 09:45:53,354 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Inc\main.h
+2026-05-24 09:45:53,362 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Src\main.c_save
+2026-05-24 09:45:53,479 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Src\main.c
+2026-05-24 09:45:53,942 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 274mS.
+2026-05-24 09:45:53,946 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2026-05-24 09:45:54,031 [INFO] ConfigFileManager:1595 - The Die is : DIE433
+2026-05-24 09:45:54,930 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 984mS.
+2026-05-24 09:45:54,931 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2026-05-24 09:45:54,934 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-05-24 09:46:03,247 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-05-24 09:46:40,534 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 772949016 Bytes (1073741824)
+2026-05-24 09:46:41,537 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 793394200 Bytes (1073741824)
+2026-05-24 09:46:42,692 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 833766424 Bytes (1073741824)
+2026-05-24 09:46:43,019 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2026-05-24 09:46:43,019 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2026-05-24 09:46:43,020 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2026-05-24 09:46:43,020 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2026-05-24 09:46:43,020 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2026-05-24 09:46:43,020 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2026-05-24 09:46:43,020 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2026-05-24 09:46:43,020 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2026-05-24 09:46:43,020 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2026-05-24 09:46:43,021 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2026-05-24 09:46:43,022 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2026-05-24 09:46:43,022 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2026-05-24 09:46:43,097 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\MXTmpFiles\license.tmp_save
+2026-05-24 09:46:43,156 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\MXTmpFiles\license.tmp
+2026-05-24 09:46:43,184 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\MXTmpFiles\gpio.tmp_save
+2026-05-24 09:46:43,255 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\MXTmpFiles\gpio.tmp
+2026-05-24 09:46:43,399 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Src\stm32f4xx_it.c_save
+2026-05-24 09:46:43,479 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Src\stm32f4xx_it.c
+2026-05-24 09:46:43,497 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Inc\stm32f4xx_it.h_save
+2026-05-24 09:46:43,559 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Inc\stm32f4xx_it.h
+2026-05-24 09:46:43,573 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Src\stm32f4xx_hal_msp.c_save
+2026-05-24 09:46:43,675 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Src\stm32f4xx_hal_msp.c
+2026-05-24 09:46:43,680 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\MXTmpFiles\system.tmp_save
+2026-05-24 09:46:43,736 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\MXTmpFiles\system.tmp
+2026-05-24 09:46:43,747 [INFO] CodeEngine:321 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Inc\stm32f4xx_hal_conf.h_save
+2026-05-24 09:46:43,813 [INFO] CodeEngine:345 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Inc\stm32f4xx_hal_conf.h
+2026-05-24 09:46:43,829 [WARN] IPConfigManager:3811 - IP not found : TIM
+2026-05-24 09:46:43,830 [WARN] CodeGenerator:4259 - IP not found : null
+2026-05-24 09:46:43,838 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Inc\main.h_save
+2026-05-24 09:46:43,904 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Inc\main.h
+2026-05-24 09:46:43,910 [INFO] CodeEngine:265 - oldGeneratedFile, E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Src\main.c_save
+2026-05-24 09:46:44,009 [INFO] CodeEngine:289 - Generated code: E:\Git\Personal_Projects\Nucleo_Heated_Cabinet\Core\Src\main.c
+2026-05-24 09:46:44,356 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 168mS.
+2026-05-24 09:46:44,359 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2026-05-24 09:46:44,441 [INFO] ConfigFileManager:1595 - The Die is : DIE433
+2026-05-24 09:46:45,204 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 845mS.
+2026-05-24 09:46:45,205 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2026-05-24 09:46:45,208 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.

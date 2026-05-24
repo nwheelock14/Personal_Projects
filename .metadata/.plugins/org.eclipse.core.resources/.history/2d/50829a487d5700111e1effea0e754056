@@ -1,0 +1,27 @@
+/*
+ * LCD.h
+ *
+ *  Created on: May 23, 2026
+ *      Author: nickw
+ */
+
+#ifndef INC_LCD_H_
+#define INC_LCD_H_
+
+#include "main.h"
+#include "PI.h"
+#include "TMP1075.h"
+#include "LCD.h"
+#include "Timer.h"
+
+// API
+
+void Command(uint8_t data_bits);
+void Write_Data(uint8_t data_bits);
+void Init_LCD(void);
+void LCD_Write_String(uint8_t *str);
+void LCD_Set_Cursor(uint8_t row, uint8_t col);
+void Clear_LCD(void);
+void Update_UI(uint32_t PWM_Value, float temp_value, float Temp_Target);
+
+#endif /* INC_LCD_H_ */

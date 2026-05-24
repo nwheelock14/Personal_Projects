@@ -1,0 +1,8 @@
+../Core/Src/LCD.c:10:6:Command	1
+../Core/Src/LCD.c:33:6:Write_Data	1
+../Core/Src/LCD.c:55:6:Init_LCD	1
+../Core/Src/LCD.c:91:6:LCD_Write_String	2
+../Core/Src/LCD.c:100:6:LCD_Set_Cursor	3
+../Core/Src/LCD.c:118:6:Clear_LCD	1
+../Core/Src/LCD.c:124:6:Update_UI	2
+../Core/Src/LCD.c:149:6:Intro_Message	1

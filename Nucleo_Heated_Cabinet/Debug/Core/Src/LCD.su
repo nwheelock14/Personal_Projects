@@ -1,0 +1,8 @@
+../Core/Src/LCD.c:10:6:Command	16	static
+../Core/Src/LCD.c:33:6:Write_Data	16	static
+../Core/Src/LCD.c:55:6:Init_LCD	8	static
+../Core/Src/LCD.c:91:6:LCD_Write_String	16	static
+../Core/Src/LCD.c:100:6:LCD_Set_Cursor	24	static
+../Core/Src/LCD.c:118:6:Clear_LCD	8	static
+../Core/Src/LCD.c:124:6:Update_UI	56	static
+../Core/Src/LCD.c:149:6:Intro_Message	8	static

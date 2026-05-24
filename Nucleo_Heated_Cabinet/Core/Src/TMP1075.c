@@ -13,9 +13,6 @@ void Init_Temp_Registers(uint8_t config_data[2])
     HAL_Delay(250); // Wait for the first conversion to finish
 }
 
-
-
-
 float Get_Temp_Data(void)
 {
     uint8_t raw_temp_data[2] = {0,0};

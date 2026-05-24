@@ -1,2 +1,2 @@
 ../Core/Src/TMP1075.c:10:6:Init_Temp_Registers	1
-../Core/Src/TMP1075.c:19:7:Get_Temp_Data	1
+../Core/Src/TMP1075.c:16:7:Get_Temp_Data	1
