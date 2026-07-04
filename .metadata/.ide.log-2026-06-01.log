@@ -1,0 +1,54 @@
+2026-06-01 00:13:42,493 [INFO] WebApp:194 - Connection lost
+2026-06-01 00:13:42,782 [INFO] WebApp:191 - Connection restablished
+2026-06-01 00:14:15,967 [INFO] WebApp:194 - Connection lost
+2026-06-01 00:14:16,107 [INFO] WebApp:191 - Connection restablished
+2026-06-01 21:54:50,820 [INFO] WebApp:194 - Connection lost
+2026-06-01 21:55:07,837 [INFO] WebApp:191 - Connection restablished
+2026-06-01 21:55:19,144 [INFO] WebApp:194 - Connection lost
+2026-06-01 21:55:21,170 [INFO] WebApp:191 - Connection restablished
+2026-06-01 22:00:00,188 [INFO] WebApp:194 - Connection lost
+2026-06-01 22:00:01,974 [INFO] WebApp:191 - Connection restablished
+2026-06-01 22:00:31,960 [INFO] WebApp:194 - Connection lost
+2026-06-01 22:00:32,084 [INFO] WebApp:191 - Connection restablished
+2026-06-01 22:05:23,199 [INFO] WebApp:194 - Connection lost
+2026-06-01 22:05:23,719 [INFO] WebApp:191 - Connection restablished
+2026-06-01 22:05:54,970 [INFO] WebApp:194 - Connection lost
+2026-06-01 22:05:55,124 [INFO] WebApp:191 - Connection restablished
+2026-06-01 22:08:57,469 [INFO] WebApp:194 - Connection lost
+2026-06-01 22:08:57,616 [INFO] WebApp:191 - Connection restablished
+2026-06-01 22:09:28,934 [INFO] WebApp:194 - Connection lost
+2026-06-01 22:09:29,137 [INFO] WebApp:191 - Connection restablished
+2026-06-01 22:16:38,506 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2026-06-01 22:16:38,525 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2026-06-01 22:16:38,526 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2026-06-01 22:16:38,526 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2026-06-01 22:16:38,704 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2026-06-01 22:16:38,705 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2026-06-01 22:16:38,751 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2026-06-01 22:16:38,751 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2026-06-01 22:31:29,008 [INFO] WebApp:194 - Connection lost
+2026-06-01 22:31:29,802 [INFO] WebApp:191 - Connection restablished
+2026-06-01 22:32:00,468 [INFO] WebApp:194 - Connection lost
+2026-06-01 22:32:00,606 [INFO] WebApp:191 - Connection restablished
+2026-06-01 22:35:05,964 [INFO] WebApp:194 - Connection lost
+2026-06-01 22:35:06,120 [INFO] WebApp:191 - Connection restablished
+2026-06-01 22:44:04,947 [INFO] WebApp:194 - Connection lost
+2026-06-01 22:44:05,226 [INFO] WebApp:191 - Connection restablished
+2026-06-01 23:06:35,237 [INFO] WebApp:194 - Connection lost
+2026-06-01 23:06:35,598 [INFO] WebApp:191 - Connection restablished
+2026-06-01 23:09:17,921 [INFO] WebApp:194 - Connection lost
+2026-06-01 23:09:18,077 [INFO] WebApp:191 - Connection restablished
+2026-06-01 23:21:54,531 [INFO] WebApp:194 - Connection lost
+2026-06-01 23:21:54,759 [INFO] WebApp:191 - Connection restablished
+2026-06-01 23:22:26,961 [INFO] WebApp:194 - Connection lost
+2026-06-01 23:22:27,136 [INFO] WebApp:191 - Connection restablished
+2026-06-01 23:27:00,931 [INFO] WebApp:194 - Connection lost
+2026-06-01 23:27:01,134 [INFO] WebApp:191 - Connection restablished
+2026-06-01 23:52:05,157 [INFO] WebApp:194 - Connection lost
+2026-06-01 23:52:05,513 [INFO] WebApp:191 - Connection restablished
+2026-06-01 23:52:37,959 [INFO] WebApp:194 - Connection lost
+2026-06-01 23:52:38,129 [INFO] WebApp:191 - Connection restablished
+2026-06-01 23:57:00,964 [INFO] WebApp:194 - Connection lost
+2026-06-01 23:57:01,115 [INFO] WebApp:191 - Connection restablished
+2026-06-01 23:59:19,956 [INFO] WebApp:194 - Connection lost
+2026-06-01 23:59:20,167 [INFO] WebApp:191 - Connection restablished

@@ -1,7 +1,7 @@
-10:34:17 **** Incremental Build of configuration Debug for project Nucleo_Heated_Cabinet ****
+21:08:59 **** Incremental Build of configuration Debug for project Heated_Cabinet_PCB ****
 make -j12 all 
-arm-none-eabi-size  Nucleo_Heated_Cabinet.elf 
+arm-none-eabi-size  Heated_Cabinet_PCB.elf 
    text	   data	    bss	    dec	    hex	filename
-  33704	    472	   2392	  36568	   8ed8	Nucleo_Heated_Cabinet.elf
+  31992	    472	   2216	  34680	   8778	Heated_Cabinet_PCB.elf
 Finished building: default.size.stdout
  
